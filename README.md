@@ -1,4 +1,6 @@
 # v2ray-sspanel-rico_cracked
+## For test and study instead of commerce, powered by @woaizyg
+
 ### front
     domain;0;16;tls;ws;path=/v2ray|host=domain|inside_port=10550|outside_port=443
     
