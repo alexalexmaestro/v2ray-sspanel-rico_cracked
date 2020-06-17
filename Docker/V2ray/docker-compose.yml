@@ -2,7 +2,7 @@ version: '2'
 
 services:
   v2ray:
-    image: woaizyg/rico-free:v2ray
+    image: initiative1/rico_cracked:v2ray
     restart: always
     network_mode: "host"
     extra_hosts:
