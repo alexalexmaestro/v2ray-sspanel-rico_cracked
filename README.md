@@ -24,6 +24,6 @@
 
 - 'Docker' operation will take up the ports: 2333(default, can be changed), 443(default, can be changed)  
 'Docker_Caddy' operation will take up the ports: 2333(default, can be changed), 10550(default, can be changed)<br>
-and 80(default,can't be changed), 443(default, can be changed).
+and 80(default, can't be changed), 443(default, can be changed).
 
 - Also you can contact [@Alex](https://t.me/alexalexmaestro) for the paid support.
