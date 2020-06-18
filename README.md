@@ -22,8 +22,8 @@
 ### hints
 - It's valid for most of the communication protocols, containing ws, ws+tls, tcp, udp and so on.
 
-- 'Docker' operation will take up the port: 2333(default, can be changed), 443(default, can be changed)  
-'Docker_Caddy' operation will take up the port: 2333(default, can be changed), 10550(default, can be changed)<br>
+- 'Docker' operation will take up the ports: 2333(default, can be changed), 443(default, can be changed)  
+'Docker_Caddy' operation will take up the ports: 2333(default, can be changed), 10550(default, can be changed)<br>
 and 80(default,can't be changed), 443(default, can be changed).
 
 - Also you can contact [@Alex](https://t.me/alexalexmaestro) for the paid support.
