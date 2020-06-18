@@ -4,9 +4,11 @@
 
 ### front
 - ws
+    
     xx.xxx.com;443;2;ws;;path=/v2ray|host=www.baidu.com
     
 - ws+tls
+    
     domain;0;16;tls;ws;path=/v2ray|host=domain|inside_port=10550|outside_port=443
     
 ### backend
