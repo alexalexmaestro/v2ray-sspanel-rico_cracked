@@ -1,5 +1,6 @@
 # v2ray-sspanel-rico_cracked
-## For test and study instead of commerce, powered by @woaizyg
+## For test and study instead of commerce, powered by @zyg
+## Please indicate the source before reprinting the article, infringement will be corrected
 
 ### front
 - ws
@@ -23,6 +24,6 @@
 
 - 'Docker' operation will take up the port: 2333(default, can be changed), 443(default, can be changed)  
 'Docker_Caddy' operation will take up the port: 2333(default, can be changed), 10550(default, can be changed)<br>
-and 80(default,can't be changed), 443(default, can be changed)
+and 80(default,can't be changed), 443(default, can be changed).
 
 - Also you can contact [@Alex](https://t.me/alexalexmaestro) for the paid support.
