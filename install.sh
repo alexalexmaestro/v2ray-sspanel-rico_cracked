@@ -110,7 +110,7 @@ error_detect_depends(){
 pre_install_docker_compose(){
     # Set ssrpanel_url
     echo "Please ssrpanel_url"
-    read -p "(There is no default value please make sure you input the right thing, use http:// or https://(if you set tls) before url, and don't put a slash '/' at the end of the url):" ssrpanel_url
+    read -p "(There is no default value please make sure you input the right thing, use http:// or https://(if you set tls) before panel domain, and don't put a slash '/' at the end of the url):" ssrpanel_url
     [ -z "${ssrpanel_url}" ]
     echo
     echo "---------------------------"
