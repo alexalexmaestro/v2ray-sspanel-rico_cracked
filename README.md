@@ -20,7 +20,7 @@
     bash install.sh
 
 ### hints
-- It's valid for most of the communication protocols, containing ws, ws+tls, tcp, udp and so on.
+- It's valid for most of the communication protocols, containing ws, ws+tls, tcp, kcp.
 
 - 'Docker' operation will take up the ports: 2333(default, can be changed), 443(default, can be changed)  
 'Docker_Caddy' operation will take up the ports: 2333(default, can be changed), 10550(default, can be changed)<br>
