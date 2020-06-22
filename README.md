@@ -1,5 +1,5 @@
 # v2ray-sspanel-rico_cracked
-## For test and study instead of commerce
+## For test and study instead of commerce, powered by @
 ## Please indicate the source before reprinting the article, infringement will be corrected
 
 ### front
