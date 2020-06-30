@@ -334,7 +334,7 @@ install_docker(){
     echo
     echo "Enjoy it!"
     echo
-    echo "注意:安装完成不代表对接成功，出现问题请先自行检讨而不是质疑脚本"
+    echo "注意:安装完成不代表对接成功，出现问题请先自行检讨而不是质疑他人"
     echo "付费指导联系TG@alexalexmaestro"
     echo
 }
