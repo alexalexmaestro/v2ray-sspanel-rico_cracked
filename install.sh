@@ -334,6 +334,9 @@ install_docker(){
     echo
     echo "Enjoy it!"
     echo
+    echo "注意:安装完成不代表对接成功，"
+    echo "付费指导联系TG@alexalexmaestro"
+    echo
 }
 
 install_check(){
@@ -479,6 +482,9 @@ install_v2ray(){
 clear
 while true
 do
+echo -e "\033[42;30m RICO破解版v2ray脚本 如需商用请购买正版 \033[0m"
+echo -e "\033[42;30m 如需提供付费技术指导请联系TG:@alexalexmaestro \033[0m"
+echo  ""
 echo  "Which operation you'd select:"
 for ((i=1;i<=${#operation[@]};i++ )); do
     hint="${operation[$i-1]}"
