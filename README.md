@@ -9,7 +9,7 @@
     
 - ws+tls
     
-    domain;0;16;tls;ws;path=/v2ray|host=domain|inside_port=10550|outside_port=443
+    domain or ip;0;16;tls;ws;path=/v2ray|host=domain|inside_port=10550|outside_port=443
     
 ### backend
 
