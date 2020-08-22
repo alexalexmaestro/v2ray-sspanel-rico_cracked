@@ -1,4 +1,3 @@
-# v2ray-sspanel-rico_cracked
 ## For test and study instead of commerce, powered by @zyg
 ## Please indicate the source before reprinting the article, infringement will be corrected
 
