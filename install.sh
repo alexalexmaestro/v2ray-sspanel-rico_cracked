@@ -482,8 +482,8 @@ install_v2ray(){
 clear
 while true
 do
-echo -e "\033[42;30m RICO破解版v2ray脚本 如需商用请购买正版 \033[0m"
-echo -e "\033[42;30m 如需提供付费技术指导请联系TG:@alexalexmaestro \033[0m"
+echo -e "\033[42;30m 此为RICO破解版v2ray脚本 建议支持正版 \033[0m"
+echo -e "\033[42;30m 另外，如需提供付费技术指导请联系TG:@alexalexmaestro \033[0m"
 echo  ""
 echo  "Which operation you'd select:"
 for ((i=1;i<=${#operation[@]};i++ )); do
