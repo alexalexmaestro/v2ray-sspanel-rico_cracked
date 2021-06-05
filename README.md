@@ -1,7 +1,7 @@
 ## For test and study instead of commerce, powered by @zyg
 ## Please indicate the source before reprinting the article, infringement will be corrected
 
-### front
+### Front
 - ws
     
     xx.xxx.com;443;2;ws;;path=/v2ray|host=www.baidu.com
@@ -10,7 +10,7 @@
     
     domain or ip;0;16;tls;ws;path=/v2ray|host=domain|inside_port=10550|outside_port=443
     
-### backend
+### Backend
 
     mkdir v2ray-agent && \
     cd v2ray-agent && \
@@ -18,7 +18,7 @@
     chmod +x install.sh && \
     bash install.sh
 
-### hints
+### Hints
 - It's valid for most of the communication protocols, containing ws, ws+tls, tcp, kcp.
 
 - 'Docker' operation will take up the ports: 2333(default, can be changed), 443(default, can be changed)  
