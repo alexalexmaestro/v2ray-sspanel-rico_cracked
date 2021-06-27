@@ -4,11 +4,11 @@
 ### Front
 - ws
     
-    xx.xxx.com;443;2;ws;;path=/v2ray|host=www.baidu.com
+        xx.xxx.com;443;2;ws;;path=/v2ray|host=www.baidu.com
     
 - ws+tls
     
-    domain or ip;0;16;tls;ws;path=/v2ray|host=domain|inside_port=10550|outside_port=443
+        domain or ip;0;16;tls;ws;path=/v2ray|host=domain|inside_port=10550|outside_port=443
     
 ### Backend
 
@@ -21,8 +21,8 @@
 ### Hints
 - It's valid for most of the communication protocols, containing ws, ws+tls, tcp, kcp.
 
-- 'Docker' operation will take up the ports: 2333(default, can be changed), 443(default, can be changed)  
-'Docker_Caddy' operation will take up the ports: 2333(default, can be changed), 10550(default, can be changed)<br>
+- "Docker" operation will take up the ports: 2333(default, can be changed), 443(default, can be changed)  
+"Docker_Caddy" operation will take up the ports: 2333(default, can be changed), 10550(default, can be changed)<br>
 and 80(default, can't be changed), 443(default, can be changed).
 
 - Also you can contact [@Alex](https://t.me/alexalexmaestro) for the paid support.
